@@ -9,6 +9,6 @@ rem main function
 1004 changeFib1 = fib3
 1005 changeFib2 = Fib1
 1006 print Fib2
-2007 goto } MainStart
-2008 Fib1 = changeFib1
-2009 Fib2 = changeFib2
+2001 goto } MainStart
+2002 Fib1 = changeFib1
+2003 Fib2 = changeFib2
